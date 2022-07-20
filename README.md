@@ -44,7 +44,7 @@ This project was created to explore and apply our Deep learning CNN learning.
 
 
 ## Contact
-Created by [@Roshan.Choudhary] - feel free to contact me!
+Created by [@ChoudharyRoshan] - feel free to contact me!
 
 
 <!-- Optional -->
